@@ -7,7 +7,16 @@ I developed this system as my final project for my Bachelors degree at the Unive
 
 
 ## Hardware components
-The electronics part has an arduino microcontroller, ESP8266 wifi module, PH sensor, waterproof temperature sensor and ultrasonic sensor.
+
+- Arduino microcontroller
+
+- ESP8266 wifi module
+
+- PH sensor
+
+- Waterproof temperature sensor 
+
+- Ultrasonic sensor.
 
 
 ## Installation
