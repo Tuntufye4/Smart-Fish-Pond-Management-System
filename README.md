@@ -5,6 +5,9 @@ This is a system that detects changes in Pond water quality parameters (water ph
 In the video link text file there is a google drive link where you can view the demonstration video for the project.
 I developed this system as my final project for my Bachelors degree at the University of Livingstonia. At first, I implemented it using a wired network and an API based on COM ports called PLX-DAQ. Recently, I have upgraded it, and it sends data to web server panel via a wireless network using ESP8266 wifi module.
 
+## Software
+
+The Embedded program in Arduino is written in C++ and program that takes data to the database and dashboard is written in PHP.
 
 ## Hardware components
 
